@@ -1,0 +1,2 @@
+This module is to predict chain restaurant with Text Analysis. That is, using Lucene to build a search engine which is tweaked to return restaurants whose names are similar. 
+The result of this submolude will be used in the main project as an important feature that predicts restaurant closure
